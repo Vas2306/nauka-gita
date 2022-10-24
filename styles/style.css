@@ -1,0 +1,19 @@
+html{
+     background-image: url(https://i.postimg.cc/brDjkx93/christmas.jpg);
+     background-repeat: no-repeat;
+     background-position: center center;
+     background-size: cover;
+     background-attachment: fixed;
+}
+body{
+    font-family: 'Caveat', cursive;
+}
+h1{
+    font-weight: 600;
+    color: #00085c;
+}
+pre{
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+    color: #472447;
+}
